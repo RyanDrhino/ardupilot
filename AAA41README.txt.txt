@@ -1,0 +1,1 @@
+This code is to create custom firmware (ChibiOs in particular) to enable the wifi port of the Pixracer as a SPI port.
