@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTAA441", "NTAA441inner\NTAA441.csproj", "{9F19BF1F-76A5-437E-8255-82982EEA7403}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTAA441", "NTAA441.csproj", "{9F19BF1F-76A5-437E-8255-82982EEA7403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {436AFEF5-5127-4CC2-9F44-A4AEF9C631B1}
+		SolutionGuid = {A94FDB6A-A0C3-4B31-B39B-4466FF768170}
 	EndGlobalSection
 EndGlobal
